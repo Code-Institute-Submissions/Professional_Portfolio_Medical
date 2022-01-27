@@ -6,7 +6,7 @@ The last update to this file was: **January 27, 2022**
 
 **Purpose**
 
-mrdhruvparikh.com is a site that will promote the surgical work of the neurosurgeon Mr Dhruv Parikh and is template for a medical portfolio website. The site is targeted at prospective patients/clients and colleagues interested in the type of surgical work that Mr Parikh undertakes, and common conditions that they may be experiencing. The site encourages visitors to make contact through the booking page. 
+mrdhruvparikh.com is a site that will promote the surgical work of the neurosurgeon Mr Dhruv Parikh and is a template for a medical portfolio website. The site is targeted at prospective patients/clients and colleagues interested in the type of surgical work that Mr Parikh undertakes, and common conditions that they may be experiencing. The site encourages visitors to make contact through the booking page. 
 
 
 **Features**
