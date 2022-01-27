@@ -6,7 +6,7 @@ The last update to this file was: **January 27, 2022**
 
 **Purpose**
 
-mrdhruvparikh.com is a site that will promote the surgical work of the neurosurgeon Mr Dhruv Parikh. The site is targeted at prospective patients/clients and colleagues interested in the type of surgical work that Mr Parikh undertakes, and common conditions that they may be experiencing. The site encourages visitors to make contact through the booking page. 
+mrdhruvparikh.com is a site that will promote the surgical work of the neurosurgeon Mr Dhruv Parikh and is template for a medical portfolio website. The site is targeted at prospective patients/clients and colleagues interested in the type of surgical work that Mr Parikh undertakes, and common conditions that they may be experiencing. The site encourages visitors to make contact through the booking page. 
 
 
 **Features**
@@ -15,7 +15,7 @@ mrdhruvparikh.com is a site that will promote the surgical work of the neurosurg
     * Featured on all pages, the nav bar is responsive and includes links to the Logo, Home, Conditions and Treatments, Feedback, Appointments, and Research pages. It is identical in each page to allow for easy navigation.
     * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-* The landing page
+* The Landing page
     * Image
           * The landing includes a photograph with text overlay showing call to action: ‘Find out more’, which links to the appointments page. 
           * This section introduces the user to Mr Parikh with an animation to focus their attention.
