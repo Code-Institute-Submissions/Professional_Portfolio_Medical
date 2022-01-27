@@ -16,9 +16,7 @@ mrdhruvparikh.com is a site that will promote the surgical work of the neurosurg
     * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 * The Landing page
-    * Image
-          * The landing includes a photograph with text overlay showing call to action: ‘Find out more’, which links to the appointments page. 
-          * This section introduces the user to Mr Parikh with an animation to focus their attention.
+    * The landing includes a photograph with text overlay showing call to action: ‘Find out more’, which links to the appointments page. This section introduces the user to Mr Parikh with an animation to focus their attention.
     * Clinical Ethos Section
           * The clinical ethos section will allow the user to see learn about Mr Parikhs work with a brief summary of the type of surgeries undertaken.           
 
