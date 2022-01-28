@@ -2,6 +2,8 @@
 
 The last update to this file was: **January 27, 2022**
 
+**Code Institute Diploma in Software Development - Milestone Project 1**
+
 **Professional Portfolio - Mr Dhruv Parikh**
 
 **Purpose**
