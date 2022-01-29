@@ -208,9 +208,12 @@ In this section you need to reference where you got your content, media and extr
 You can break the credits section up into Content and Media, depending on what you have included in your project.
 
 Content
+* Icons used throughout the site were supplied by Font Awesome [insert link]
+* The site Logo was produced using LogoMakr [insert link]
+* Fonts used throughout the site were supplied by Google Fonts  [insert link]
+
 * The text for the Home page was taken from Wikipedia Article A
 * Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
-* The icons in the footer were taken from Font Awesome
 
 Media
 * The photos used on the home and sign up page are from This Open Source site
