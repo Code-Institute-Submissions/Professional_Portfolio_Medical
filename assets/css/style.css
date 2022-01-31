@@ -24,5 +24,13 @@
 .banner-image {
   background-image: url("/assets/images/hero_surgery.png");
   background-size: cover;
-  filter: grayscale(100%);
+  background-position: center;
+  filter: grayscale(80%);
+  -webkit-filter:grayscale(80%);
+  -moz-filter:grayscale(80%);
+  -o-filter:grayscale(80%);
+}
+
+.navbar-dark {
+  background: rgba(33, 37, 41, 0.8);
 }
