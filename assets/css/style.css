@@ -1,13 +1,3 @@
-
-.navbar-brand {
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
-  margin-right: 1rem;
-  font-size: 1.25rem;
-  text-decoration: none;
-  white-space: nowrap;
-}
-
 .navbar-nav {
   display: flex;
   flex-direction: column;
@@ -31,6 +21,45 @@
   -o-filter:grayscale(80%);
 }
 
-.navbar-dark {
-  background: rgba(33, 37, 41, 0.8);
+.nav-item {
+  margin-left: 30px;
 }
+
+.nav-link {
+  font-family: 'roboto', sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #f6f8f9;
+}
+
+.bg-color {
+  background-color: rgba(33,37,41,0.7);
+}
+
+/* .title-format {
+  font-family: 'Nunito', sans-serif;
+  color: rgb(33,37,41);
+  font-size: 100px;
+  font-weight: 500;
+} */
+
+
+
+.cover-text, h1, h2, h3 {
+  font-family: 'Noto Serif Display', serif;
+}
+
+.cover-text {
+  background-color: rgba(rgb(50,52,54,0.4);
+
+  /* background: rgba(0,0,0,0.5);
+  border-radius: 15px 15px 0 0; */
+
+  /* background: rgba(0,0,0,0.5);
+  width: 100%; */
+
+}
+
+
+
+
