@@ -1,8 +1,6 @@
 .navbar-nav {
   display: flex;
   flex-direction: column;
-  padding-left: 0;
-  margin-bottom: 0;
   list-style: none;
 }
 
@@ -16,9 +14,9 @@
   background-size: cover;
   background-position: center;
   filter: grayscale(80%);
-  -webkit-filter:grayscale(80%);
-  -moz-filter:grayscale(80%);
-  -o-filter:grayscale(80%);
+  -webkit-filter: grayscale(80%);
+  -moz-filter: grayscale(80%);
+  -o-filter: grayscale(80%);
 }
 
 .nav-item {
@@ -33,33 +31,31 @@
 }
 
 .bg-color {
-  background-color: rgba(33,37,41,0.7);
+  background-color: rgba(33, 37, 41, 0.7);
 }
 
-/* .title-format {
-  font-family: 'Nunito', sans-serif;
-  color: rgb(33,37,41);
-  font-size: 100px;
-  font-weight: 500;
-} */
-
-
-
-.cover-text, h1, h2, h3 {
+.cover-text > h1 {
   font-family: 'Noto Serif Display', serif;
 }
 
 .cover-text {
-  background-color: rgba(rgb(50,52,54,0.4);
+  background: rgba(50, 52, 54, 0.4);
+  }
 
-  /* background: rgba(0,0,0,0.5);
-  border-radius: 15px 15px 0 0; */
+.hearing-image {
+    background-image: url("/assets/images/hearing.png");
+    background-size: cover;
+    background-position: center;
+  }
 
-  /* background: rgba(0,0,0,0.5);
-  width: 100%; */
+  .padding-top {
+    padding-top: 70px; 
+  }
 
-}
+/* fix for overlying text on navbar - https://stackoverflow.com/questions/11124777/twitter-bootstrap-navbar-fixed-top-overlapping-site */
 
-
-
-
+/* body { padding-top: 58px; 
+  } */
+  
+  /* For images within divs, you need to set the width of the div first, 
+so say 100vw, and then set the image width to be 100% of it's container */
