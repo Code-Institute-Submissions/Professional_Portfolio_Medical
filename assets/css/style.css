@@ -25,7 +25,8 @@
 
 .nav-link {
   font-family: 'roboto', sans-serif;
-  font-size: 12px;
+  font-size: 15px;
+  font-weight: 200;
   text-transform: uppercase;
   color: #f6f8f9;
 }
@@ -52,10 +53,71 @@
     padding-top: 70px; 
   }
 
-/* fix for overlying text on navbar - https://stackoverflow.com/questions/11124777/twitter-bootstrap-navbar-fixed-top-overlapping-site */
 
-/* body { padding-top: 58px; 
-  } */
-  
-  /* For images within divs, you need to set the width of the div first, 
-so say 100vw, and then set the image width to be 100% of it's container */
+  /* Form from example */
+
+  .form-section {
+    /* clear: left; */
+    background: url("/assets/images/stethoscope.jpg");
+    background-size: cover;
+    background-position: center;
+    height:900px;
+}
+
+.signup-form {
+    margin-top:80px;
+    color:#fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width:400px;
+    border-radius:10px;
+    left:10%;
+    padding:30px;
+}
+
+.signup-form h2 {
+    color:#fafafa;
+    margin-bottom:20px;
+}
+
+.text-input {
+    background: transparent;
+    color:#fafafa;
+    width:100%;
+    height:25px;
+    margin:5px 0 20px 0;
+    border:1px solid #ccccce;
+    border-radius:5px;
+}
+
+.text-input:hover{
+    border-color:rgb(33, 37, 41);
+}
+
+.text-input2:hover{
+  border-color:rgb(33, 37, 41);
+}
+
+.contact-form {
+  font-family: 'roboto', sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #f6f8f9;
+}
+
+.contact-form2 {
+  font-family: 'roboto', sans-serif;
+  font-weight: 200;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #f6f8f9;
+}
+
+.contact-form3 {
+  font-family: 'roboto', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: rgb(12, 12, 12);
+}
+
