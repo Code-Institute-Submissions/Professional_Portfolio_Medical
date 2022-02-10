@@ -17,7 +17,9 @@
   -webkit-filter: grayscale(80%);
   -moz-filter: grayscale(80%);
   -o-filter: grayscale(80%);
+  filter: brightness(80%);
 }
+
 
 .nav-item {
   margin-left: 30px;
@@ -26,31 +28,56 @@
 .nav-link {
   font-family: 'roboto', sans-serif;
   font-size: 15px;
-  font-weight: 200;
+  font-weight: 300;
   text-transform: uppercase;
   color: #f6f8f9;
 }
 
-.bg-color {
+.bg-color-nav {
   background-color: rgba(33, 37, 41, 0.7);
 }
 
-.cover-text > h1 {
-  font-family: 'Noto Serif Display', serif;
+.tagline-format {
+  font-family: 'roboto', sans-serif;
+  text-transform:initial;
+  font-weight: 200;
+  font-size: 40px;
+  color:#f6f8f9;
 }
 
-.cover-text {
-  background: rgba(50, 52, 54, 0.4);
-  }
+.name-format {
+  font-family: 'roboto', sans-serif;
+  text-transform:initial;
+  font-weight: 200;
+  font-size: 30px;
+  color:#f6f8f9;
+}
+
+.title-format {
+  font-family: 'roboto', sans-serif;
+  text-transform:initial;
+  font-weight: 200;
+  font-size: 25px;
+  color:#f6f8f9;
+}
+
+.pg-text-format {
+  font-family: 'roboto', sans-serif;
+  text-transform:initial;
+  font-weight: 300;
+  font-size: 18px;
+  color:rgb(33, 37, 41);
+}
 
 .hearing-image {
-    background-image: url("/assets/images/hearing.png");
-    background-size: cover;
-    background-position: center;
+    background: url("/assets/images/hearing.png") no-repeat center center fixed;
+    height: 60vh;
+    width: cover;
+    overflow: hidden;
   }
 
   .padding-top {
-    padding-top: 70px; 
+    padding-top: 120px; 
   }
 
 
@@ -100,7 +127,7 @@
 .contact-form {
   font-family: 'roboto', sans-serif;
   font-weight: 200;
-  font-size: 20px;
+  font-size: 18px;
   text-transform: uppercase;
   color: #f6f8f9;
 }
@@ -118,6 +145,13 @@
   font-weight: 300;
   font-size: 14px;
   text-transform: uppercase;
+  color: rgb(12, 12, 12);
+}
+
+.info-page-title {
+  font-family: 'roboto', sans-serif;
+  font-weight: 300;
+  font-size: 25px;
   color: rgb(12, 12, 12);
 }
 
