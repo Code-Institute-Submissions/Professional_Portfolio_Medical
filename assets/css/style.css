@@ -69,12 +69,75 @@
   color:rgb(33, 37, 41);
 }
 
+.pg-text-format a {
+  text-decoration: none;
+  color:rgb(33, 37, 41);
+}
+
+.pg-text-format-large {
+  font-family: 'roboto', sans-serif;
+  text-transform:initial;
+  font-weight: 300;
+  font-size: 22px;
+  color:rgb(33, 37, 41);
+}
+
 .hearing-image {
     background: url("/assets/images/hearing.png") no-repeat center center fixed;
-    height: 60vh;
-    width: cover;
-    overflow: hidden;
+    height: 50vh;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
   }
+
+  .headache-image {
+    background: url("/assets/images/headache.png") no-repeat center center fixed;
+    height: 50vh;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .eye-image {
+    background: url("/assets/images/eye.jpg") no-repeat center center fixed;
+    height: 50vh;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .eye-2-image {
+    background: url("/assets/images/eye-2.jpg") no-repeat center center fixed;
+    height: 50vh;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .headache-woman-image {
+    background: url("/assets/images/headache-woman.jpg") no-repeat center center fixed;
+    height: 50vh;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+  }
+
+  .conference-image {
+    background: url("/assets/images/conference.jpg") no-repeat center center fixed;
+    height: 80vh;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+
+
 
   .padding-top {
     padding-top: 120px; 
@@ -153,5 +216,9 @@
   font-weight: 300;
   font-size: 25px;
   color: rgb(12, 12, 12);
+}
+
+.container {
+  min-height: 200px;
 }
 
