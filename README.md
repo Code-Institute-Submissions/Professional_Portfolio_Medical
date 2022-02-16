@@ -7,7 +7,7 @@
 
 <h3 align="center">The last update to this file was: February 15, 2022</h3>
 
-<h2 align="center"><img src="#"></h2>
+![mockuper](https://user-images.githubusercontent.com/17801129/154098389-9b671297-70cb-4983-8592-049acc86c8a0.png)
 
 [View the live project here.](https://#)
 
@@ -184,6 +184,6 @@ Content
 * Text content on the 'Conditions + Treatments' pages was edited from NHS Direct [https://www.nhs.uk/]
 
 Media
-* The photos used throughout the site were sourced from Pexel [https://www.pexels.com/]
+* The photos used throughout the site were supplied by the client. Those not supplied were sourced from the open source platform Pexel [https://www.pexels.com/]
 
 
