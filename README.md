@@ -139,8 +139,6 @@ The large, background hero image is designed to be striking and catch the user's
 
 UX was assessed by Mr Parikh and 2 first time visitors on mobile and desktop devices.  
 
-
-
 #### Validator Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the project to ensure there were no syntax errors.
