@@ -10,9 +10,12 @@
 }
 
 .banner-image {
-  background-image: url("/assets/images/hero_surgery.png");
+  background: url("/assets/images/hero_surgery.png") no-repeat center center fixed;
+  height: 90vh;
   background-size: cover;
-  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   filter: grayscale(80%);
   -webkit-filter: grayscale(80%);
   -moz-filter: grayscale(80%);
@@ -37,154 +40,158 @@
   background-color: rgba(33, 37, 41, 0.7);
 }
 
+.bg-section {
+  background-color: #f8f9fa;
+}
+
 .tagline-format {
   font-family: 'roboto', sans-serif;
-  text-transform:initial;
+  text-transform: initial;
   font-weight: 200;
   font-size: 40px;
-  color:#f6f8f9;
+  color: #f6f8f9;
 }
 
 .name-format {
   font-family: 'roboto', sans-serif;
-  text-transform:initial;
+  text-transform: initial;
   font-weight: 200;
   font-size: 30px;
-  color:#f6f8f9;
+  color: #f6f8f9;
 }
 
 .title-format {
   font-family: 'roboto', sans-serif;
-  text-transform:initial;
+  text-transform: initial;
   font-weight: 200;
   font-size: 25px;
-  color:#f6f8f9;
+  color: #f6f8f9;
 }
 
 .pg-text-format {
   font-family: 'roboto', sans-serif;
-  text-transform:initial;
+  text-transform: initial;
   font-weight: 300;
   font-size: 18px;
-  color:rgb(33, 37, 41);
+  color: rgb(33, 37, 41);
 }
 
 .pg-text-format a {
   text-decoration: none;
-  color:rgb(33, 37, 41);
+  color: rgb(33, 37, 41);
 }
 
 .pg-text-format-large {
   font-family: 'roboto', sans-serif;
-  text-transform:initial;
+  text-transform: initial;
   font-weight: 300;
   font-size: 22px;
-  color:rgb(33, 37, 41);
+  color: rgb(33, 37, 41);
 }
 
 .hearing-image {
-    background: url("/assets/images/hearing.png") no-repeat center center fixed;
-    height: 50vh;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  }
+  background: url("/assets/images/hearing.png") no-repeat center center fixed;
+  height: 50vh;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
 
-  .headache-image {
-    background: url("/assets/images/headache.png") no-repeat center center fixed;
-    height: 50vh;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  }
+.headache-image {
+  background: url("/assets/images/headache.png") no-repeat center center fixed;
+  height: 50vh;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
 
-  .eye-image {
-    background: url("/assets/images/eye.jpg") no-repeat center center fixed;
-    height: 50vh;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  }
+.eye-image {
+  background: url("/assets/images/eye.jpg") no-repeat center center fixed;
+  height: 50vh;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
 
-  .eye-2-image {
-    background: url("/assets/images/eye-2.jpg") no-repeat center center fixed;
-    height: 50vh;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  }
+.eye-2-image {
+  background: url("/assets/images/eye-2.jpg") no-repeat center center fixed;
+  height: 50vh;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
 
-  .headache-woman-image {
-    background: url("/assets/images/headache-woman.jpg") no-repeat center center fixed;
-    height: 50vh;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  }
-  }
+.headache-woman-image {
+  background: url("/assets/images/headache-woman.jpg") no-repeat center center fixed;
+  height: 50vh;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+}
 
-  .conference-image {
-    background: url("/assets/images/conference.jpg") no-repeat center center fixed;
-    height: 80vh;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  }
-
-
-
-  .padding-top {
-    padding-top: 120px; 
-  }
+.conference-image {
+  background: url("/assets/images/conference.jpg") no-repeat center center fixed;
+  height: 80vh;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
 
 
-  /* Form from example */
 
-  .form-section {
-    /* clear: left; */
-    background: url("/assets/images/stethoscope.jpg");
-    background-size: cover;
-    background-position: center;
-    height:900px;
+.padding-top {
+  padding-top: 120px;
+}
+
+
+/* Form from example */
+
+.form-section {
+  /* clear: left; */
+  background: url("/assets/images/stethoscope.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 900px;
 }
 
 .signup-form {
-    margin-top:80px;
-    color:#fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width:400px;
-    border-radius:10px;
-    left:10%;
-    padding:30px;
+  margin-top: 80px;
+  color: #fff;
+  background-color: rgba(60, 60, 60, 0.6);
+  max-width: 400px;
+  border-radius: 10px;
+  left: 10%;
+  padding: 30px;
 }
 
 .signup-form h2 {
-    color:#fafafa;
-    margin-bottom:20px;
+  color: #fafafa;
+  margin-bottom: 20px;
 }
 
 .text-input {
-    background: transparent;
-    color:#fafafa;
-    width:100%;
-    height:25px;
-    margin:5px 0 20px 0;
-    border:1px solid #ccccce;
-    border-radius:5px;
+  background: transparent;
+  color: #fafafa;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid #ccccce;
+  border-radius: 5px;
 }
 
-.text-input:hover{
-    border-color:rgb(33, 37, 41);
+.text-input:hover {
+  border-color: rgb(33, 37, 41);
 }
 
-.text-input2:hover{
-  border-color:rgb(33, 37, 41);
+.text-input2:hover {
+  border-color: rgb(33, 37, 41);
 }
 
 .contact-form {
@@ -223,5 +230,13 @@
 }
 
 .footer-logo {
-  height: 100px
+  height: 50px;
+  position: center;
+}
+
+.footer-copyright {
+  font-family: 'roboto', sans-serif;
+  font-weight: 200;
+  font-size: 14px;
+  color: rgb(59, 59, 59);
 }
