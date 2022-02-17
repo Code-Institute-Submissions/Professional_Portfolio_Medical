@@ -85,11 +85,8 @@ Features not included in the initial viable product but to be included in future
 
 #### Wireframes
 
-Home Page Wireframe - [View](https://github.com/)
+Wireframe for desktop and mobile - [View](/assets/images/mrdhruvparikh_wireframes.pdf)
 
-Mobile Wireframe - [View](https://github.com/)
-
-Contact Us Page Wireframe - [View](https://github.com/)
 
 #### Surface
 
