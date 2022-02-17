@@ -238,7 +238,7 @@ video {
   color: rgb(12, 12, 12);
 }
 
-/* Fix to align 'read more' buttons */
+/* Fix to horizontally align 'read more' buttons */
 
 .min-height {
   min-height: 200px;

@@ -5,7 +5,7 @@
 
 <h3 align="center">Code Institute Diploma in Software Development - Milestone Project 1</h3>
 
-<h3 align="center">The last update to this file was: February 15, 2022</h3>
+<h3 align="center">The last update to this file was: February 17, 2022</h3>
 
 ![mockuper](https://user-images.githubusercontent.com/17801129/154098389-9b671297-70cb-4983-8592-049acc86c8a0.png)
 
@@ -115,11 +115,9 @@ The large, background hero image is designed to be striking and catch the user's
 #### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 5.0.2:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+    - Bootstrap was used to design the responsiveness and styling of the website.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were imported into the style.css file used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
@@ -127,11 +125,13 @@ The large, background hero image is designed to be striking and catch the user's
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
+    - GitHub was used to store the projects code after being pushed from Git.
 1. [LogoMakr:](https://logomakr.com/)
     - LogoMakr was used to create the logo.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the wireframes during the design process.
+1. [Hover.css](https://ianlunn.github.io/Hover/)
+    - Hover.css was used to create hover effects for buttons on the site. 
 
 ### Testing
 
@@ -143,13 +143,14 @@ UX was assessed by Mr Parikh and 2 first time visitors on mobile and desktop dev
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the project to ensure there were no syntax errors.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+*  [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+*  [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
 #### Browser and Device Testing 
 
 Project has been viewed and debugged using Chrome DevTools. The site looks and works as intended on different screen sizes including mobile, tablet and desktop.
-Functionality of different browsers has been assessed including Safari, Chrome, Firefox and Opera.
+
+Functionality on the following browsers has been assessed - Google Chrome · Mozilla Firefox · Internet Explorer · Safari · Microsoft Edge · Opera.
 
 #### Bugs and Fixes 
 
@@ -176,12 +177,17 @@ Bug: Negative space showing on some pages when viewed on mobile device.
 ### Credits
 
 Content
-* Icons used throughout the site were supplied by Font Awesome [insert link]
-* The site Logo was produced using LogoMakr [insert link]
-* Fonts used throughout the site were supplied by Google Fonts  [insert link]
+* Icons used throughout the site were supplied by Font Awesome.
+* The site Logo was produced using LogoMakr.
+* Fonts used throughout the site were supplied by Google Fonts.
 * Text content on the 'Conditions + Treatments' pages was edited from NHS Direct [https://www.nhs.uk/]
 
 Media
 * The photos used throughout the site were supplied by the client. Those not supplied were sourced from the open source platform Pexel [https://www.pexels.com/]
+
+Coding snippets
+* HTML5/CSS3 code was adapted from the following youtube tutorial to create a transparent navigation bar [https://www.youtube.com/c/System22Net]
+* Bootstrap code was adapted from the following tutorial to create a hover function on dropdown menu. [https://bootstrap-menu.com/detail-basic-hover.html]
+
 
 
