@@ -75,10 +75,11 @@ Features not included in the initial viable product but to be included in future
 * Contact us
     * This section will include a form to request to book an appointment with general contact information below. 
 * Research
-    * This section will include titles of publications by Mr Parikh with links to PubMed citations. 
-    * The citations list will be available as a downloadable pdf. 
+    * This section will include an embedded video showing novel technique used in surgery. 
+    * This section will also include titles of publications by Mr Parikh with links to citations. Titles will be clickable and redirect to full text versions via PubMed.
+
 * Footer 
-    * The footer will include social media links and a copyright statement.
+    * The footer will be included across all pages and will show icons representing orgnasiations Mr Parikh is affiliated with and a copyright statement.
 
 #### Skeleton 
 
@@ -91,6 +92,8 @@ Mobile Wireframe - [View](https://github.com/)
 Contact Us Page Wireframe - [View](https://github.com/)
 
 #### Surface
+
+The overall aesthetic of the site will be profession, clear and modern. Navbar, footers, text sizes and fonts, colours and buttons will all be unified for easy navigation and understanding. Where large bodies of texts are required these will be broken up with 'read more' options. 
 
 #### Colour Scheme
 
@@ -143,8 +146,12 @@ UX was assessed by Mr Parikh and 2 first time visitors on mobile and desktop dev
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the project to ensure there were no syntax errors.
 
-*  [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-*  [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+*  [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/assets/images/html_validation.png)
+*  [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/assets/images/css_validation.png)
+
+In addition the Lighthouse function in Chrome DevTools was used to improve performance on mobile and desktop devices. 
+
+*  [DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse) - [Results](/assets/images/Lighthouse_report_2.pdf)
 
 #### Browser and Device Testing 
 

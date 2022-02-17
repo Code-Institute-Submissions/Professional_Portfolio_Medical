@@ -31,6 +31,10 @@
   color: rgb(33, 37, 41);
 }
 
+.size-logo {
+  max-height: 40px;
+}
+
 .bg-color-nav {
   background-color: rgba(33, 37, 41, 0.7);
 }
