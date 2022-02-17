@@ -98,7 +98,7 @@
 }
 
 .hearing-image {
-  background: url("/assets/images/hearing.png") no-repeat center center fixed;
+  background: url("/assets/images/ear_3.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
   -webkit-background-size: cover;
@@ -107,7 +107,7 @@
 }
 
 .headache-image {
-  background: url("/assets/images/headache.png") no-repeat center center fixed;
+  background: url("/assets/images/headache.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
   -webkit-background-size: cover;
@@ -116,7 +116,7 @@
 }
 
 .eye-image {
-  background: url("/assets/images/eye.jpg") no-repeat center center fixed;
+  background: url("/assets/images/confused.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
   -webkit-background-size: cover;
@@ -125,7 +125,7 @@
 }
 
 .eye-2-image {
-  background: url("/assets/images/eye-2.jpg") no-repeat center center fixed;
+  background: url("/assets/images/eye_4.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
   -webkit-background-size: cover;
