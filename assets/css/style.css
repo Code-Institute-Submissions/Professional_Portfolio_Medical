@@ -50,11 +50,10 @@
   background: url("/assets/images/hero_surgery.png") no-repeat center center fixed;
   height: 90vh;
   background-size: cover;
-  filter: grayscale(80%);
-  -webkit-filter: grayscale(80%);
-  -moz-filter: grayscale(80%);
-  -o-filter: grayscale(80%);
-  filter: brightness(80%);
+}
+
+.width {
+  width: 100%;
 }
 
 .bg-section {
