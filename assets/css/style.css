@@ -51,7 +51,7 @@
 /* Landing page */
 
 .banner-image {
-  background: url("/assets/images/hero_surgery.png") no-repeat center center fixed;
+  background: url("../images/hero_surgery.png") no-repeat center center fixed;
   height: 90vh;
   background-size: cover;
 }
@@ -114,31 +114,31 @@
 /* Conditions pages */
 
 .hearing-image {
-  background: url("/assets/images/ear_3.jpg") no-repeat center center fixed;
+  background: url("../images/ear_3.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
 }
 
 .headache-image {
-  background: url("/assets/images/headache.jpg") no-repeat center center fixed;
+  background: url("../images/headache.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
 }
 
 .eye-image {
-  background: url("/assets/images/confused.jpg") no-repeat center center fixed;
+  background: url("../images/confused.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
 }
 
 .eye-2-image {
-  background: url("/assets/images/eye_4.jpg") no-repeat center center fixed;
+  background: url("../images/eye_4.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
 }
 
 .headache-woman-image {
-  background: url("/assets/images/headache-woman.jpg") no-repeat center center fixed;
+  background: url("../images/headache-woman.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
 }
