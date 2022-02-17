@@ -50,9 +50,6 @@
   background: url("/assets/images/hero_surgery.png") no-repeat center center fixed;
   height: 90vh;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   filter: grayscale(80%);
   -webkit-filter: grayscale(80%);
   -moz-filter: grayscale(80%);
@@ -117,46 +114,30 @@
   background: url("/assets/images/ear_3.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
 }
 
 .headache-image {
   background: url("/assets/images/headache.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
 }
 
 .eye-image {
   background: url("/assets/images/confused.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
 }
 
 .eye-2-image {
   background: url("/assets/images/eye_4.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
 }
 
 .headache-woman-image {
   background: url("/assets/images/headache-woman.jpg") no-repeat center center fixed;
   height: 50vh;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-}
 }
 
 /* Research page */
@@ -165,9 +146,6 @@
   background: url("/assets/images/conference.jpg") no-repeat center center fixed;
   height: 80vh;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
 }
 
 video {
@@ -271,7 +249,6 @@ video {
 
 .footer-logo {
   height: 50px;
-  position: center;
 }
 
 .footer-copyright {
