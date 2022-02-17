@@ -1,3 +1,5 @@
+/* navbar styling */
+
 .navbar-nav {
   display: flex;
   flex-direction: column;
@@ -8,21 +10,6 @@
   padding-right: 0;
   padding-left: 0;
 }
-
-.banner-image {
-  background: url("/assets/images/hero_surgery.png") no-repeat center center fixed;
-  height: 90vh;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  filter: grayscale(80%);
-  -webkit-filter: grayscale(80%);
-  -moz-filter: grayscale(80%);
-  -o-filter: grayscale(80%);
-  filter: brightness(80%);
-}
-
 
 .nav-item {
   margin-left: 30px;
@@ -46,6 +33,31 @@
 
 .bg-color-nav {
   background-color: rgba(33, 37, 41, 0.7);
+}
+
+/* menu dropdown adapted from https://bootstrap-menu.com/detail-basic-hover.html */
+
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}
+
+/* Landing page */
+
+.banner-image {
+  background: url("/assets/images/hero_surgery.png") no-repeat center center fixed;
+  height: 90vh;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  filter: grayscale(80%);
+  -webkit-filter: grayscale(80%);
+  -moz-filter: grayscale(80%);
+  -o-filter: grayscale(80%);
+  filter: brightness(80%);
 }
 
 .bg-section {
@@ -76,6 +88,8 @@
   color: #f6f8f9;
 }
 
+/* General styles */
+
 .pg-text-format {
   font-family: 'roboto', sans-serif;
   text-transform: initial;
@@ -96,6 +110,8 @@
   font-size: 22px;
   color: rgb(33, 37, 41);
 }
+
+/* Conditions pages */
 
 .hearing-image {
   background: url("/assets/images/ear_3.jpg") no-repeat center center fixed;
@@ -143,6 +159,8 @@
 }
 }
 
+/* Research page */
+
 .conference-image {
   background: url("/assets/images/conference.jpg") no-repeat center center fixed;
   height: 80vh;
@@ -164,10 +182,13 @@ video {
 }
 
 
+/* Fix to avoid overlay with navbar */
+
 .padding-top {
   padding-top: 80px;
 }
 
+/* Contact page */
 
 .form-section {
   background: url("/assets/images/stethoscope.jpg");
@@ -240,9 +261,13 @@ video {
   color: rgb(12, 12, 12);
 }
 
+/* Fix to align 'read more' buttons */
+
 .min-height {
   min-height: 200px;
 }
+
+/* Footer page styling */
 
 .footer-logo {
   height: 50px;
@@ -263,11 +288,3 @@ video {
   color: rgb(59, 59, 59);
 }
 
-/* menu dropdown adapted from https://bootstrap-menu.com/detail-basic-hover.html */
-
-@media all and (min-width: 992px) {
-	.navbar .nav-item .dropdown-menu{ display: none; }
-	.navbar .nav-item:hover .nav-link{   }
-	.navbar .nav-item:hover .dropdown-menu{ display: block; }
-	.navbar .nav-item .dropdown-menu{ margin-top:0; }
-}
