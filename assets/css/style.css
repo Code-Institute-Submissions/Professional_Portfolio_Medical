@@ -114,27 +114,32 @@
 /* Conditions pages */
 
 .hearing-image {
-  background: url("../images/ear_3.jpg") center center/cover no-repeat fixed;
+  background: url("../images/ear_3.jpg") center center/cover no-repeat;
+  background-attachment: scroll;
   height: 50vh;
 }
 
 .headache-image {
-  background: url("../images/headache.jpg") center center/cover no-repeat fixed;
+  background: url("../images/headache.jpg") center center/cover no-repeat;
+  background-attachment: scroll;
   height: 50vh;
 }
 
 .eye-image {
-  background: url("../images/confused.jpg") center center/cover no-repeat fixed;
+  background: url("../images/confused.jpg") center center/cover no-repeat;
+  background-attachment: scroll;
   height: 50vh;
 }
 
 .eye-2-image {
-  background: url("../images/eye_4.jpg") center center/cover no-repeat fixed;
+  background: url("../images/eye_4.jpg") center center/cover no-repeat;
+  background-attachment: scroll;
   height: 50vh;
 }
 
 .headache-woman-image {
-  background: url("../images/headache-woman.jpg") center center/cover no-repeat fixed;
+  background: url("../images/headache-woman.jpg") center center/cover no-repeat;
+  background-attachment: scroll;
   height: 50vh;
 }
 
