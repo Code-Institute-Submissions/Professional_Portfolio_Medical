@@ -113,6 +113,36 @@
 
 /* Conditions pages */
 
+.name-condition-format {
+  font-family: 'roboto', sans-serif;
+  text-transform: initial;
+  font-weight: 200;
+  font-size: 40px;
+  color: #f6f8f9;
+}
+
+@media (max-width:480px) {
+  .name-condition-format {
+    font-size: 30px;
+  }
+}
+
+.desc-condition-format {
+  font-family: 'roboto', sans-serif;
+  text-transform: initial;
+  font-weight: 200;
+  font-size: 30px;
+  color: #f6f8f9;
+}
+
+@media (max-width:480px) {
+  .desc-condition-format {
+    font-family: 'roboto', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+  }
+}
+
 .hearing-image {
   background: url("../images/ear_3.jpg") center center/cover no-repeat;
   background-attachment: scroll;
