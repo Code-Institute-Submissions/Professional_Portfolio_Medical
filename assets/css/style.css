@@ -51,8 +51,8 @@
 /* Landing page */
 
 .banner-image {
-  background: url("../images/hero_surgery.png") center center/cover no-repeat fixed;
-  background-size: 100% auto;
+  background: url("../images/hero_surgery.png") center center/cover no-repeat;
+  background-attachment: scroll;
   height: 90vh;
 }
 
