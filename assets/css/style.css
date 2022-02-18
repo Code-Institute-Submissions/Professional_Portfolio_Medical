@@ -145,12 +145,6 @@
 
 /* Research page */
 
-.conference-image {
-  background: url("/assets/images/conference.jpg") no-repeat center center fixed;
-  height: 80vh;
-  background-size: cover;
-}
-
 video {
   position: relative;
   display: block;
@@ -172,7 +166,7 @@ video {
 /* Contact page */
 
 .form-section {
-  background: url("/assets/images/stethoscope.jpg");
+  background: url("../images/stethoscope.jpg");
   background-size: cover;
   background-position: center;
   height: 900px;
