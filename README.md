@@ -9,7 +9,7 @@
 
 ![mockuper](https://user-images.githubusercontent.com/17801129/154098389-9b671297-70cb-4983-8592-049acc86c8a0.png)
 
-[View the live project here.](https://#)
+[View the live project here.](https://jmlestner.github.io/Professional_Portfolio_Medical/)
 
 ### User Experience (UX) 
 
@@ -134,6 +134,8 @@ The large, background hero image is designed to be striking and catch the user's
     - LogoMakr was used to create the logo.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process.
+1. [Mockuper:](https://mockuper.net/)
+    - Mockuper was used to create the mockups during the design process.    
 1. [Hover.css](https://ianlunn.github.io/Hover/)
     - Hover.css was used to create hover effects for buttons on the site. 
 
@@ -162,25 +164,29 @@ Functionality on the following browsers has been assessed - Google Chrome · Moz
 
 #### Bugs and Fixes 
 
-Bug: 'Read more' buttons not aligning when viewed on desktop.
+Bug 1: 'Read more' buttons not aligning when viewed on desktop.
 
 <img width="1348" alt="Screenshot 2022-02-14 at 10 44 11" src="https://user-images.githubusercontent.com/17801129/154084639-a2298e5a-ecd2-4ccb-b75c-ba6b05e360c8.png">
 
 Fix: Read more placed into separate div with above div given min-height.
 
-Bug: Negative space showing on some pages when viewed on mobile device. 
+Bug 2: Negative space showing on some pages when viewed on mobile device. 
    
 <img width="832" alt="Screenshot 2022-02-14 at 10 44 19" src="https://user-images.githubusercontent.com/17801129/154084716-fddc77b3-3fe8-49f5-953f-d19092474ca8.png">
 
    Fix: Missing 'container' class added above bootstrap 'row' class. 
 
+Bug 3: Videos not playing in older version of iOS.
+Fix: Include playsinline attribute. 
+
 ### Deployment
 
 * The site was deployed to GitHub pages. The deployment steps taken were:
-    * In the GitHub repository, navigate to the Settings tab
-    * From the source section drop-down menu, select the Master Branch
-    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-* The live link can be found here - [insert link]
+    * In the GitHub repository, navigate to the 'Settings' tab
+    * In the 'Settings' page, navigate to the 'Pages' page
+    * From the source section drop-down menu, select the 'Main' Branch
+    * Once the Main branch has been selected, click active 'Save' button
+    * The live link can be found here - [https://jmlestner.github.io/Professional_Portfolio_Medical/]
 
 ### Credits
 
