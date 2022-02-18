@@ -74,6 +74,8 @@ Features not included in the initial viable product but to be included in future
 
 * Contact us
     * This section will include a form to request to book an appointment with general contact information below. 
+    * Form will include prompts to complete required sections and hover hightlight features to aid completion. 
+
 * Research
     * This section will include an embedded video showing novel technique used in surgery. 
     * This section will also include titles of publications by Mr Parikh with links to citations. Titles will be clickable and redirect to full text versions via PubMed.
@@ -91,6 +93,8 @@ Wireframe for desktop and mobile - [View](/assets/images/mrdhruvparikh_wireframe
 #### Surface
 
 The overall aesthetic of the site will be profession, clear and modern. Navbar, footers, text sizes and fonts, colours and buttons will all be unified for easy navigation and understanding. Where large bodies of texts are required these will be broken up with 'read more' options. 
+
+Icons are used alongside titles to convey clarity of meaning and focus attention. 
 
 #### Colour Scheme
 
