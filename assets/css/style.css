@@ -113,64 +113,35 @@
 
 /* Conditions pages */
 
-.name-condition-format {
-  font-family: 'roboto', sans-serif;
-  text-transform: initial;
-  font-weight: 200;
-  font-size: 40px;
-  color: #f6f8f9;
-}
-
-@media (max-width:480px) {
-  .name-condition-format {
-    font-size: 30px;
-  }
-}
-
-.desc-condition-format {
-  font-family: 'roboto', sans-serif;
-  text-transform: initial;
-  font-weight: 200;
-  font-size: 30px;
-  color: #f6f8f9;
-}
-
-@media (max-width:480px) {
-  .desc-condition-format {
-    font-family: 'roboto', sans-serif;
-    font-weight: 100;
-    font-size: 20px;
-  }
-}
 
 .hearing-image {
   background: url("../images/ear_3.jpg") center center/cover no-repeat;
   background-attachment: scroll;
-  height: 50vh;
+  height: 60vh;
 }
 
 .headache-image {
   background: url("../images/headache.jpg") center center/cover no-repeat;
   background-attachment: scroll;
-  height: 50vh;
+  height: 60vh;
 }
 
 .eye-image {
   background: url("../images/confused.jpg") center center/cover no-repeat;
   background-attachment: scroll;
-  height: 50vh;
+  height: 60vh;
 }
 
 .eye-2-image {
   background: url("../images/eye_4.jpg") center center/cover no-repeat;
   background-attachment: scroll;
-  height: 50vh;
+  height: 60vh;
 }
 
 .headache-woman-image {
   background: url("../images/headache-woman.jpg") center center/cover no-repeat;
   background-attachment: scroll;
-  height: 50vh;
+  height: 60vh;
 }
 
 /* Research page */
