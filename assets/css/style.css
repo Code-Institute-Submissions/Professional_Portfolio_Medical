@@ -51,9 +51,8 @@
 /* Landing page */
 
 .banner-image {
-  background: url("../images/hero_surgery.png") no-repeat center center fixed;
+  background: url("../images/hero_surgery.png") center center/cover no-repeat fixed;
   height: 90vh;
-  background-size: cover;
 }
 
 .width {
@@ -114,33 +113,28 @@
 /* Conditions pages */
 
 .hearing-image {
-  background: url("../images/ear_3.jpg") no-repeat center center fixed;
+  background: url("../images/ear_3.jpg") center center/cover no-repeat fixed;
   height: 50vh;
-  background-size: cover;
 }
 
 .headache-image {
-  background: url("../images/headache.jpg") no-repeat center center fixed;
+  background: url("../images/headache.jpg") center center/cover no-repeat fixed;
   height: 50vh;
-  background-size: cover;
 }
 
 .eye-image {
-  background: url("../images/confused.jpg") no-repeat center center fixed;
+  background: url("../images/confused.jpg") center center/cover no-repeat fixed;
   height: 50vh;
-  background-size: cover;
 }
 
 .eye-2-image {
-  background: url("../images/eye_4.jpg") no-repeat center center fixed;
+  background: url("../images/eye_4.jpg") center center/cover no-repeat fixed;
   height: 50vh;
-  background-size: cover;
 }
 
 .headache-woman-image {
-  background: url("../images/headache-woman.jpg") no-repeat center center fixed;
+  background: url("../images/headache-woman.jpg") center center/cover no-repeat fixed;
   height: 50vh;
-  background-size: cover;
 }
 
 /* Research page */
