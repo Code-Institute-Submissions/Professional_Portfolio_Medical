@@ -52,6 +52,7 @@
 
 .banner-image {
   background: url("../images/hero_surgery.png") center center/cover no-repeat fixed;
+  background-size: 100% auto;
   height: 90vh;
 }
 
